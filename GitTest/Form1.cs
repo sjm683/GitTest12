@@ -16,5 +16,10 @@ namespace GitTest
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("라벨 출력");
+        }
     }
 }
