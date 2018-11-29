@@ -17,6 +17,7 @@ namespace GitTest
             InitializeComponent();
         }
 
+<<<<<<< HEAD
 
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -26,6 +27,17 @@ namespace GitTest
         {
             MessageBox.Show("버튼2 출력");
 
+=======
+<<<<<<< HEAD
+        private void label1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("라벨 출력");
+=======
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("버튼2 출력");
+>>>>>>> GitTest12/master
+>>>>>>> sjm
         }
     }
 }
