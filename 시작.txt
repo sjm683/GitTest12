@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 asdfsd
+=======
+asdfzxcbvzxcbzxc
+>>>>>>> master
